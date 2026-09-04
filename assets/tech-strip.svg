@@ -1,36 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="56" viewBox="0 0 940 56">
-  <g font-family="-apple-system, system-ui, sans-serif" font-size="13" fill="#D8D2C4">
-    <g>
-      <rect x="10" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="62" y="33" text-anchor="middle">ChatGPT</text>
-    </g>
-    <g>
-      <rect x="126" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="178" y="33" text-anchor="middle">CodeX</text>
-    </g>
-    <g>
-      <rect x="242" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="294" y="33" text-anchor="middle">doubao</text>
-    </g>
-    <g>
-      <rect x="358" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="410" y="33" text-anchor="middle">Grok</text>
-    </g>
-    <g>
-      <rect x="474" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="526" y="33" text-anchor="middle">Gemini</text>
-    </g>
-    <g>
-      <rect x="590" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="642" y="33" text-anchor="middle">DeepSeek</text>
-    </g>
-    <g>
-      <rect x="706" y="8" width="110" height="40" rx="20" fill="none" stroke="#C9A96A" stroke-width="1"/>
-      <text x="761" y="33" text-anchor="middle" fill="#E4CFA0">WorkBuddy</text>
-    </g>
-    <g>
-      <rect x="826" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
-      <text x="878" y="33" text-anchor="middle">dots</text>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="56" viewBox="0 0 940 56" role="img" aria-label="Tools: ChatGPT, CodeX, doubao, Grok, Gemini, DeepSeek, WorkBuddy, dots">
+  <g font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#2A2522" text-anchor="middle">
+    <rect x="0"   y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="55"  y="33">ChatGPT</text>
+    <rect x="118" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="173" y="33">CodeX</text>
+    <rect x="236" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="291" y="33">doubao</text>
+    <rect x="354" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="409" y="33">Grok</text>
+    <rect x="472" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="527" y="33">Gemini</text>
+    <rect x="590" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="645" y="33">DeepSeek</text>
+    <rect x="708" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="763" y="33">WorkBuddy</text>
+    <rect x="826" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="881" y="33">dots</text>
   </g>
 </svg>
