@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="56" viewBox="0 0 940 56">
+  <g font-family="-apple-system, system-ui, sans-serif" font-size="13" fill="#D8D2C4">
+    <g>
+      <rect x="10" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="62" y="33" text-anchor="middle">ChatGPT</text>
+    </g>
+    <g>
+      <rect x="126" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="178" y="33" text-anchor="middle">CodeX</text>
+    </g>
+    <g>
+      <rect x="242" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="294" y="33" text-anchor="middle">doubao</text>
+    </g>
+    <g>
+      <rect x="358" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="410" y="33" text-anchor="middle">Grok</text>
+    </g>
+    <g>
+      <rect x="474" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="526" y="33" text-anchor="middle">Gemini</text>
+    </g>
+    <g>
+      <rect x="590" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="642" y="33" text-anchor="middle">DeepSeek</text>
+    </g>
+    <g>
+      <rect x="706" y="8" width="110" height="40" rx="20" fill="none" stroke="#C9A96A" stroke-width="1"/>
+      <text x="761" y="33" text-anchor="middle" fill="#E4CFA0">WorkBuddy</text>
+    </g>
+    <g>
+      <rect x="826" y="8" width="104" height="40" rx="20" fill="none" stroke="#3A3A44" stroke-width="1"/>
+      <text x="878" y="33" text-anchor="middle">dots</text>
+    </g>
+  </g>
+</svg>
