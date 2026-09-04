@@ -1,12 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="56" viewBox="0 0 940 56" role="img" aria-label="Tools: ChatGPT, CodeX, doubao, Grok, Gemini, DeepSeek, WorkBuddy, dots">
-  <g font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#2A2522" text-anchor="middle">
-    <rect x="0"   y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="55"  y="33">ChatGPT</text>
-    <rect x="118" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="173" y="33">CodeX</text>
-    <rect x="236" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="291" y="33">doubao</text>
-    <rect x="354" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="409" y="33">Grok</text>
-    <rect x="472" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="527" y="33">Gemini</text>
-    <rect x="590" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="645" y="33">DeepSeek</text>
-    <rect x="708" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="763" y="33">WorkBuddy</text>
-    <rect x="826" y="8" width="110" height="40" rx="20" fill="#FBF1E8" stroke="#E4D2C0" stroke-width="1"/><text x="881" y="33">dots</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="116" viewBox="0 0 1020 116" role="img" aria-label="AI Tools: ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#16304F"/>
+    </linearGradient>
+    <linearGradient id="lgFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="30%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="lgEdge" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.80"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#D4A574" stop-opacity="0.40"/>
+    </linearGradient>
+    <filter id="tb" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="tb2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="k0"><rect x="24"  y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k1"><rect x="148" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k2"><rect x="272" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k3"><rect x="396" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k4"><rect x="520" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k5"><rect x="644" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k6"><rect x="768" y="38" width="116" height="40" rx="20"/></clipPath>
+    <clipPath id="k7"><rect x="892" y="38" width="106" height="40" rx="20"/></clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1016" height="112" rx="30" fill="url(#panel)"/>
+  <rect x="2.5" y="2.5" width="1015" height="111" rx="29.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1"/>
+  <ellipse cx="840" cy="108" rx="240" ry="36" fill="#8A6A44" opacity="0.28" filter="url(#tb2)"/>
+  <ellipse cx="180" cy="10" rx="240" ry="28" fill="#3A5A82" opacity="0.5" filter="url(#tb2)"/>
+
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#E2EBF5" text-anchor="middle" letter-spacing="0.4">
+    <g><rect x="24"  y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k0)"><ellipse cx="60" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="66" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="82"  y="63">ChatGPT</text></g>
+    <g><rect x="148" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k1)"><ellipse cx="184" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="190" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="206" y="63">CodeX</text></g>
+    <g><rect x="272" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k2)"><ellipse cx="308" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="314" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="330" y="63">doubao</text></g>
+    <g><rect x="396" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k3)"><ellipse cx="432" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="438" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="454" y="63">Grok</text></g>
+    <g><rect x="520" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k4)"><ellipse cx="556" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="562" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="578" y="63">Gemini</text></g>
+    <g><rect x="644" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k5)"><ellipse cx="680" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="686" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="702" y="63">DeepSeek</text></g>
+    <g><rect x="768" y="38" width="116" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k6)"><ellipse cx="804" cy="80" rx="44" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="810" cy="44.5" rx="30" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="826" y="63">WorkBuddy</text></g>
+    <g><rect x="892" y="38" width="106" height="40" rx="20" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.1"/><g clip-path="url(#k7)"><ellipse cx="926" cy="80" rx="40" ry="12" fill="#D4A574" opacity="0.30" filter="url(#tb)"/></g><ellipse cx="930" cy="44.5" rx="26" ry="3.8" fill="#FFFFFF" opacity="0.55"/><text x="945" y="63">dots</text></g>
   </g>
 </svg>
