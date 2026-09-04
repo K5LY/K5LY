@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48">
-  <text x="380" y="30" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-size="16" letter-spacing="0.5" fill="#8A8A93">Brand Creative<tspan fill="#C9A96A" xml:space="preserve">   ·   </tspan>AI Explorer<tspan fill="#C9A96A" xml:space="preserve">   ·   </tspan>Digital Builder</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60" role="img" aria-label="Brand Creative, AI Explorer, Digital Builder">
+  <rect x="0" y="8" width="240" height="44" rx="22" fill="#F6E7DC" stroke="#B68A5E" stroke-width="1"/>
+  <text x="120" y="36" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#2A2522">Brand Creative</text>
+  <rect x="260" y="8" width="240" height="44" rx="22" fill="#F6E7DC" stroke="#B68A5E" stroke-width="1"/>
+  <text x="380" y="36" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#2A2522">AI Explorer</text>
+  <rect x="520" y="8" width="240" height="44" rx="22" fill="#F6E7DC" stroke="#B68A5E" stroke-width="1"/>
+  <text x="640" y="36" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#2A2522">Digital Builder</text>
 </svg>
