@@ -1,68 +1,65 @@
-![K5LY](https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg?v=2)
+![K5LY](https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg?v=3)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/roles.svg?v=2" width="760" alt="Brand Creative · AI Explorer · Digital Builder">
+  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/roles.svg?v=3" width="760" alt="Brand Creative · AI Explorer · Digital Builder">
 </p>
 
----
+## 💡 关于 · About
 
-## 关于 / About
+嗨，我是 K5LY。
 
-我是 **K5LY** — a brand creative who builds with AI and code.
+做品牌创意的，平时也爱折腾 AI 和各种数字工具。比起把东西写完美，我更喜欢先把它做出来；比起堆功能，我更在意它能不能讲成一个好故事。现在主要在品牌叙事、内容系统和 AI 工作流这几块之间来回跑。
 
-I live where **storytelling, systems, and emerging tech** overlap. 把脑子里的想法变成能跑的东西，是我最享受的过程。Not a traditional developer — more like a creative who happens to speak machine.
+## 🧩 在做什么 · What I Do
 
-> Brand first. Tech second. Story always.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background:#FBF1E8;border:1px solid #E8D8C6;border-radius:14px;padding:18px 20px;">
+        <b style="color:#B68A5E;">品牌与创意</b><br><br>
+        · 把想法落成品牌叙事<br>
+        · 内容框架和编辑逻辑<br>
+        · campaign 的结构和节奏<br>
+        · 视觉语言
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background:#FBF1E8;border:1px solid #E8D8C6;border-radius:14px;padding:18px 20px;">
+        <b style="color:#B68A5E;">AI 与探索</b><br><br>
+        · 用 prompt 和系统搭 AI 工作流<br>
+        · 跑 agent、做自动化小实验<br>
+        · 玩 generative AI 和创意 coding<br>
+        · 随手写点数字小工具
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+## 📂 精选项目 · Featured
 
-## 我在做什么 / What I Do
+**ai-brand-studio** · AI 辅助的创意工作流
+放的是 prompt 系统、品牌语气实验，还有内容生成的框架。把 language model 当成创意搭档，而不是替代品。
 
-| Brand & Creative 品牌与创意 | AI & Exploration AI 探索 |
-|---|---|
-| 品牌叙事 Brand narrative | Prompt systems & LLM 应用 |
-| 内容框架 Content frameworks | AI agents & 工作流自动化 |
-| Campaign 结构 Campaign structure | Generative AI & 创意 coding |
-| 视觉语言 Visual language | 实验性小工具 Small experiments |
+**creative-content-lab** · 内容策略的小实验室
+编辑框架、叙事结构、campaign 复盘都在这。先搭结构，再谈文笔。
 
----
+**digital-experiments** · 好奇心驱动的杂货铺
+AI 小工具、自动化脚本、创意 coding。不追求做成产品，先把念头跑通。
 
-## 精选项目 / Featured
+## 🧭 最近在探索 · Exploring
 
-**ai-brand-studio** — AI 辅助的创意工作流。Prompt 系统、品牌语气实验、内容生成框架。
-*where language models meet brand thinking.*
+最近在摸的有：能自己跑完任务的 AI agent、创意 coding、有点观点的数字产品、内容智能化，还有更有人味的技术。
 
-**creative-content-lab** — 内容策略实验。编辑框架、叙事结构、campaign 复盘。
-*structure before style.*
-
-**digital-experiments** — 好奇心驱动的小项目。AI 工具、自动化、创意 coding。
-*ship the experiment, don't polish the prototype.*
-
----
-
-## 最近在探索 / Currently Exploring
-
-- AI agents that actually finish the task
-- 创意 coding & 生成式设计
-- Digital products with a point of view
-- Content intelligence & 自动叙事
-- Human-centered tech
-
----
-
-## 工具箱 / Tools
+## 🛠 工具箱 · Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/tech-strip.svg?v=2" width="940" alt="ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
+  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/tech-strip.svg?v=3" width="940" alt="ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
 </p>
 
----
+## 💌 联系 · Say Hi
 
-## 联系 / Say Hi
-
-Open to collaborations, brand experiments, and AI workflow projects.
-找到我 → [GitHub](https://github.com/K5LY) · [Discussions](https://github.com/K5LY/discussions)
+有想法就聊聊。GitHub 留言或者开个 discussion 都行，看到就会回。
 
 ---
 
-> *"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."*
+> 先把东西做出来，再慢慢调。
