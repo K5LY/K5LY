@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg?v=5" width="100%" alt="K5LY">
+<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg?v=6" width="100%" alt="K5LY">
 
-<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/roles.svg?v=5" width="720" alt="Brand Creative · AI Explorer · Digital Builder">
+<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/roles.svg?v=6" width="720" alt="Brand Creative · AI Explorer · Digital Builder">
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/tech-strip.svg?v=5" width="880" alt="ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
+<img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/tech-strip.svg?v=6" width="880" alt="ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
 
 </div>
 
