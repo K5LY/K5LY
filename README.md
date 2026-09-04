@@ -1,78 +1,67 @@
-![K5LY Banner](https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg)
+![K5LY](https://raw.githubusercontent.com/K5LY/K5LY/main/assets/banner.svg?v=2)
 
-<h3 align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/typing.svg" alt="identity" width="600">
-  <br>
-  <br>
-  <a href="https://github.com/K5LY"><img src="https://img.shields.io/badge/GitHub-K5LY-181818?logo=github&logoColor=white" alt="GitHub"></a>
-  <br>
-  <br>
-</h3>
-
-## About
-
-I explore the intersection of brand storytelling, creative technology, and AI-assisted workflows.
-
-My focus: turning ideas into structured systems, and using emerging technology to expand creativity.
-
-I'm not a traditional developer — I think in narratives, systems, and the tools that bring them to life.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/roles.svg?v=2" width="760" alt="Brand Creative · AI Explorer · Digital Builder">
+</p>
 
 ---
 
-## What I Do
+## 关于 / About
 
-| Brand & Creative | AI Exploration |
+我是 **K5LY** — a brand creative who builds with AI and code.
+
+I live where **storytelling, systems, and emerging tech** overlap. 把脑子里的想法变成能跑的东西，是我最享受的过程。Not a traditional developer — more like a creative who happens to speak machine.
+
+> Brand first. Tech second. Story always.
+
+---
+
+## 我在做什么 / What I Do
+
+| Brand & Creative 品牌与创意 | AI & Exploration AI 探索 |
 |---|---|
-| Brand strategy & visual narrative | LLM applications & prompt systems |
-| Content frameworks & editorial design | AI agents & automation workflows |
-| Campaign storytelling & structure | Generative AI tools & creative coding |
+| 品牌叙事 Brand narrative | Prompt systems & LLM 应用 |
+| 内容框架 Content frameworks | AI agents & 工作流自动化 |
+| Campaign 结构 Campaign structure | Generative AI & 创意 coding |
+| 视觉语言 Visual language | 实验性小工具 Small experiments |
 
 ---
 
-## Featured Projects
+## 精选项目 / Featured
 
-### [ai-brand-studio](https://github.com/K5LY/ai-brand-studio)
-AI-assisted creative workflow toolkit. Prompt systems, brand voice experiments, and content generation frameworks.
-*Explores: prompt engineering, brand automation, creative AI pipelines*
+**ai-brand-studio** — AI 辅助的创意工作流。Prompt 系统、品牌语气实验、内容生成框架。
+*where language models meet brand thinking.*
 
-### [creative-content-lab](https://github.com/K5LY/creative-content-lab)
-Content strategy experiments — editorial frameworks, storytelling structures, and campaign analysis.
-*Explores: narrative systems, content architecture, editorial design*
+**creative-content-lab** — 内容策略实验。编辑框架、叙事结构、campaign 复盘。
+*structure before style.*
 
-### [digital-experiments](https://github.com/K5LY/digital-experiments)
-Small AI tools, automation experiments, and creative coding prototypes — curiosity-driven projects.
-*Explores: automation, creative coding, digital prototyping*
+**digital-experiments** — 好奇心驱动的小项目。AI 工具、自动化、创意 coding。
+*ship the experiment, don't polish the prototype.*
 
 ---
 
-## Currently Exploring
+## 最近在探索 / Currently Exploring
 
-- AI agents & multi-step workflows
-- Creative coding & generative design
-- Digital products & interactive experiences
-- Content intelligence & automated storytelling
-- Human-centered technology
-
----
-
-## Tech & Tools
-
-**Creative**
-![Figma](https://img.shields.io/badge/Figma-FF0000?logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
-
-**AI & Exploration**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?logo=openai&logoColor=white) ![CodeX](https://img.shields.io/badge/CodeX-1A1A1A?logo=none&logoColor=white) ![doubao](https://img.shields.io/badge/doubao-FF6B35?logo=none&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-1A1A1A?logo=none&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1A1A1A?logo=none&logoColor=white) ![WorkBuddy](https://img.shields.io/badge/WorkBuddy-6E3EE6?logo=none&logoColor=white) ![dots](https://img.shields.io/badge/dots-FF6B35?logo=none&logoColor=white)
-
-**Build**
-![GitHub](https://img.shields.io/badge/GitHub-181818?logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+- AI agents that actually finish the task
+- 创意 coding & 生成式设计
+- Digital products with a point of view
+- Content intelligence & 自动叙事
+- Human-centered tech
 
 ---
 
-## Get in touch
+## 工具箱 / Tools
 
-Open to collaborations, creative projects, and AI workflow experiments.
-Reach out via [GitHub Discussions](https://github.com/K5LY/discussions).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/K5LY/K5LY/main/assets/tech-strip.svg?v=2" width="940" alt="ChatGPT · CodeX · doubao · Grok · Gemini · DeepSeek · WorkBuddy · dots">
+</p>
+
+---
+
+## 联系 / Say Hi
+
+Open to collaborations, brand experiments, and AI workflow projects.
+找到我 → [GitHub](https://github.com/K5LY) · [Discussions](https://github.com/K5LY/discussions)
 
 ---
 
