@@ -63,6 +63,10 @@ Exploring how AI improves **research**, **ideation**, **writing**, and **content
 
 <br><br>
 
-<sub><b>K5LY</b> · stories, systems & experiments</sub>
+<img src="assets/wordmark.svg?v=1" alt="K5LY" width="150" />
+
+<br><br>
+
+<sub>stories, systems & experiments</sub>
 
 </div>
