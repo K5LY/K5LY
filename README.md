@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=6" alt="K5LY" width="100%" />
-
-<br>
-
-<img src="assets/typing.svg?v=7" alt="typing" width="100%" />
+<img src="assets/banner.svg?v=8" alt="K5LY" width="100%" />
 
 <br>
 
