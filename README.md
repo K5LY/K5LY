@@ -16,7 +16,7 @@
 
 ### About
 
-Brand storytelling, creative technology, and AI-assisted workflows. I build content frameworks, prompt systems, and editorial processes, then use emerging technology to push what creativity can do.
+Brand storytelling, creative systems, and AI-assisted workflows.
 
 ---
 
