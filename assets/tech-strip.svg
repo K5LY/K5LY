@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="64" viewBox="0 0 860 64" role="img" aria-label="ChatGPT, CodeX, DeepSeek, WorkBuddy, dots">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="64" viewBox="0 0 860 64" role="img" aria-label="chatgpt, codex, deepseek, workbuddy, dots">
   <path d="M 16 0 H 844 C 859.84 0, 860 0.16, 860 16 V 48 C 860 63.84, 859.84 64, 844 64 H 16 C 0.16 64, 0 63.84, 0 48 V 16 C 0 0.16, 0.16 0, 16 0 Z" fill="#0E1C2B"/>
   <path d="M 15.5 0 H 843.5 C 858.85 0, 859 0.16, 859 15.5 V 47.5 C 859 62.84, 858.85 63, 843.5 63 H 15.5 C 0.16 63, 0 62.84, 0 47.5 V 15.5 C 0 0.16, 0.16 0, 15.5 0 Z" transform="translate(0.5,0.5)" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F5EFE6" text-anchor="middle" dominant-baseline="central">
-    <text x="82" y="33">ChatGPT</text>
-    <text x="252" y="33">CodeX</text>
-    <text x="426" y="33">DeepSeek</text>
-    <text x="616" y="33">WorkBuddy</text>
-    <text x="790" y="33">dots</text>
+    <text x="80" y="33">chatgpt</text>
+    <text x="248" y="33">codex</text>
+    <text x="424" y="33">deepseek</text>
+    <text x="617" y="33">workbuddy</text>
+    <text x="792" y="33">dots</text>
   </g>
   <g fill="#D4A574">
     <circle cx="167" cy="33" r="2.5"/>
-    <circle cx="339" cy="33" r="2.5"/>
-    <circle cx="521" cy="33" r="2.5"/>
-    <circle cx="703" cy="33" r="2.5"/>
+    <circle cx="329" cy="33" r="2.5"/>
+    <circle cx="518" cy="33" r="2.5"/>
+    <circle cx="717" cy="33" r="2.5"/>
   </g>
 </svg>
