@@ -1,14 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="Brand Creative · AI Explorer · Digital Builder">
-  <rect width="800" height="64" rx="10" fill="#0E1C2B"/>
-  <rect x="0.5" y="0.5" width="799" height="63" rx="9.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif"
-     font-size="19" font-weight="400" fill="#F5EFE6" text-anchor="middle" dominant-baseline="central">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="Brand Creative, AI Explorer, Digital Builder">
+  <path d="M 16 0 H 784 C 799.84 0, 800 0.16, 800 16 V 48 C 800 63.84, 799.84 64, 784 64 H 16 C 0.16 64, 0 63.84, 0 48 V 16 C 0 0.16, 0.16 0, 16 0 Z" fill="#0E1C2B"/>
+  <path d="M 15.5 0 H 783.5 C 798.85 0, 799 0.16, 799 15.5 V 47.5 C 799 62.84, 798.85 63, 783.5 63 H 15.5 C 0.16 63, 0 62.84, 0 47.5 V 15.5 C 0 0.16, 0.16 0, 15.5 0 Z" transform="translate(0.5,0.5)" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#F5EFE6" text-anchor="middle" dominant-baseline="central">
     <text x="161" y="33">Brand Creative</text>
     <text x="395" y="33">AI Explorer</text>
     <text x="634" y="33">Digital Builder</text>
   </g>
   <g fill="#D4A574">
-    <circle cx="285" cy="33" r="2.5"/>
-    <circle cx="504" cy="33" r="2.5"/>
+    <circle cx="278" cy="33" r="2.5"/>
+    <circle cx="514" cy="33" r="2.5"/>
   </g>
 </svg>
