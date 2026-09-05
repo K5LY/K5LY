@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="K5LY" width="100%" />
+<img src="assets/banner.svg?v=5" alt="K5LY" width="100%" />
 
 <br>
 
-<img src="assets/roles.svg" alt="Brand Creative · AI Explorer · Digital Builder" width="100%" />
+<img src="assets/roles.svg?v=5" alt="Brand Creative · AI Explorer · Digital Builder" width="100%" />
 
 <br><br>
 
-<i>Turning ideas into structured systems,<br>and using emerging technology to expand creativity.</i>
+<i>Turning ideas into structured systems, and technology into creativity.</i>
 
 </div>
 
@@ -16,21 +16,17 @@
 
 ### About
 
-I work at the intersection of **brand storytelling**, **creative technology**, and **AI-assisted workflows**.
-
-My focus is simple: turn ideas into structured systems. Content frameworks, prompt systems, editorial processes. Then use emerging technology to expand what creativity can do.
-
-I'm not a traditional developer. I think in narratives, systems, and the tools that bring them to life.
+Brand storytelling, creative technology, and AI-assisted workflows. I build content frameworks, prompt systems, and editorial processes, then use emerging technology to push what creativity can do.
 
 ---
 
 ### Featured Projects
 
-| | Project | What it is |
-|:---:|---|---|
-| ✦ | **[ai-brand-studio](https://github.com/K5LY/ai-brand-studio)** | AI-assisted creative workflows: prompt systems, brand voice experiments, content generation frameworks |
-| ✦ | **[creative-content-lab](https://github.com/K5LY/creative-content-lab)** | Content strategy in practice: editorial frameworks, storytelling structures, campaign analysis |
-| ✦ | **[digital-experiments](https://github.com/K5LY/digital-experiments)** | Curiosity, logged: small AI tools, automation experiments, creative prototypes |
+| Project | What it is |
+|---|---|
+| **[ai-brand-studio](https://github.com/K5LY/ai-brand-studio)** | Prompt systems, brand voice, AI-assisted content workflows |
+| **[creative-content-lab](https://github.com/K5LY/creative-content-lab)** | Editorial frameworks, storytelling structures, campaign analysis |
+| **[digital-experiments](https://github.com/K5LY/digital-experiments)** | Small AI tools, automation experiments, creative prototypes |
 
 ---
 
@@ -40,7 +36,7 @@ Exploring how AI improves **research**, **ideation**, **writing**, and **content
 
 <br>
 
-<img src="assets/tech-strip.svg" alt="ChatGPT · CodeX · DeepSeek · WorkBuddy · dots" width="100%" />
+<img src="assets/tech-strip.svg?v=5" alt="chatgpt · codex · deepseek · workbuddy · dots" width="100%" />
 
 <br>
 
@@ -63,7 +59,7 @@ Exploring how AI improves **research**, **ideation**, **writing**, and **content
 
 <br><br>
 
-<img src="assets/wordmark.svg?v=1" alt="K5LY" width="150" />
+<img src="assets/wordmark.svg?v=5" alt="K5LY" width="150" />
 
 <br><br>
 
