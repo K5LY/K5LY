@@ -4,11 +4,9 @@
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=21&duration=2800&pause=1400&color=D4A574&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=Brand+Creative;AI+Explorer;Digital+Builder;Stories+%C2%B7+Systems+%C2%B7+Experiments" alt="Brand Creative · AI Explorer · Digital Builder" />
-</a>
+<img src="assets/roles.svg" alt="Brand Creative · AI Explorer · Digital Builder" width="100%" />
 
-<br>
+<br><br>
 
 <i>Turning ideas into structured systems,<br>and using emerging technology to expand creativity.</i>
 
@@ -40,7 +38,11 @@ I'm not a traditional developer. I think in narratives, systems, and the tools t
 
 Exploring how AI improves **research**, **ideation**, **writing**, and **content systems**. The workflow itself is treated as a creative product.
 
-&nbsp; `ChatGPT` &nbsp;·&nbsp; `CodeX` &nbsp;·&nbsp; `DeepSeek` &nbsp;·&nbsp; `WorkBuddy` &nbsp;·&nbsp; `dots`
+<br>
+
+<img src="assets/tech-strip.svg" alt="ChatGPT · CodeX · DeepSeek · WorkBuddy · dots" width="100%" />
+
+<br>
 
 > *Exploring, not expert. The workflow is the experiment.*
 
