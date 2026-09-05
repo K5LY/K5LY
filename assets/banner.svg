@@ -1,40 +1,36 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="K5LY · Brand Creative × AI Explorer × Digital Builder">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0D1B2A"/>
-      <stop offset="0.5" stop-color="#14283C"/>
-      <stop offset="1" stop-color="#0D1B2A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101F30"/>
+      <stop offset="1" stop-color="#0B1725"/>
     </linearGradient>
-    <linearGradient id="goldline" x1="0" y1="0" x2="1" y2="0">
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#D4A574" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#D4A574" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#D4A574" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#D4A574"/>
+      <stop offset="0.5" stop-color="#D4A574" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#D4A574" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="dotgrid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#D4A574" fill-opacity="0.07"/>
-    </pattern>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#dotgrid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
 
-  <!-- inner frame -->
-  <rect x="30" y="30" width="1140" height="260" fill="none" stroke="#D4A574" stroke-opacity="0.32" stroke-width="1"/>
-  <rect x="38" y="38" width="1124" height="244" fill="none" stroke="#D4A574" stroke-opacity="0.12" stroke-width="1"/>
-
-  <!-- corner accents -->
-  <path d="M 30 66 L 30 30 L 66 30" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
-  <path d="M 1134 30 L 1170 30 L 1170 66" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
-  <path d="M 1170 254 L 1170 290 L 1134 290" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
-  <path d="M 66 290 L 30 290 L 30 254" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
+  <!-- top edge highlight -->
+  <rect x="0" y="0" width="1200" height="1" fill="#FFFFFF" fill-opacity="0.06"/>
 
   <!-- wordmark -->
-  <text x="592" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="30" fill="#F5EFE6">K5LY</text>
+  <text x="592" y="158" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="82" font-weight="500" letter-spacing="18" fill="#F7F5F2">K5LY</text>
 
-  <!-- gold divider with diamonds -->
-  <rect x="430" y="206" width="340" height="1.2" fill="url(#goldline)"/>
-  <rect x="588" y="202.4" width="7" height="7" transform="rotate(45 591.5 206)" fill="#D4A574"/>
+  <!-- hairline -->
+  <rect x="570" y="192" width="60" height="1" fill="url(#hairline)"/>
 
   <!-- tagline -->
-  <text x="600" y="248" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16.5" letter-spacing="6.5" fill="#D4A574">BRAND CREATIVE × AI EXPLORER × DIGITAL BUILDER</text>
+  <text x="600" y="238" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="14" font-weight="400" letter-spacing="9" fill="#D4A574" fill-opacity="0.88">BRAND CREATIVE · AI EXPLORER · DIGITAL BUILDER</text>
 </svg>
