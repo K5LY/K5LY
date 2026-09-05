@@ -6,52 +6,31 @@
 
 <img src="assets/roles.svg?v=5" alt="Brand Creative · AI Explorer · Digital Builder" width="100%" />
 
-<br><br>
-
-<i>Turning ideas into structured systems, and technology into creativity.</i>
-
 </div>
 
----
-
-### About
+<img src="assets/divider.svg?v=5" alt="" width="100%" />
 
 Brand storytelling, creative systems, and AI-assisted workflows.
 
----
+<img src="assets/divider.svg?v=5" alt="" width="100%" />
 
-### Featured Projects
+#### Featured Projects
 
-| Project | What it is |
-|---|---|
-| **[ai-brand-studio](https://github.com/K5LY/ai-brand-studio)** | Prompt systems, brand voice, AI-assisted content workflows |
-| **[creative-content-lab](https://github.com/K5LY/creative-content-lab)** | Editorial frameworks, storytelling structures, campaign analysis |
-| **[digital-experiments](https://github.com/K5LY/digital-experiments)** | Small AI tools, automation experiments, creative prototypes |
+**ai-brand-studio** — prompt systems, brand voice, AI-assisted content workflows
+**creative-content-lab** — editorial frameworks, storytelling structures, campaign analysis
+**digital-experiments** — small AI tools, automation experiments, creative prototypes
 
----
+<img src="assets/divider.svg?v=5" alt="" width="100%" />
 
-### AI Workflow
+#### AI Workflow
 
-Exploring how AI improves **research**, **ideation**, **writing**, and **content systems**. The workflow itself is treated as a creative product.
-
-<br>
+Exploring how AI improves research, ideation, writing, and content systems. The workflow itself is a creative product.
 
 <img src="assets/tech-strip.svg?v=5" alt="chatgpt · codex · deepseek · workbuddy · dots" width="100%" />
 
-<br>
+<img src="assets/divider.svg?v=5" alt="" width="100%" />
 
-> *Exploring, not expert. The workflow is the experiment.*
-
----
-
-### Currently Exploring
-
-- **AI agents**: multi-step workflows & creative automation
-- **Content intelligence**: systems that learn from what performs
-- **Creative coding**: generative design & digital prototypes
-- **Human-centered technology**: tools that amplify, not replace
-
----
+> Exploring, not expert. The workflow is the experiment.
 
 <div align="center">
 
