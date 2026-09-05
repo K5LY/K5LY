@@ -19,7 +19,11 @@
       <stop offset="1" stop-color="#D4A574" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="bclip"><path d="M 20 0 H 1180 C 1199.8 0, 1200 0.2, 1200 20 V 300 C 1200 319.8, 1199.8 320, 1180 320 H 20 C 0.2 320, 0 319.8, 0 300 V 20 C 0 0.2, 0.2 0, 20 0 Z"/></clipPath>
-    <clipPath id="bwmclip"><rect x="-60" y="0" width="600" height="240"/></clipPath>
+    <clipPath id="bwmclip"><rect x="-60" y="0" width="660" height="240"/></clipPath>
+    <style>
+      @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+      .wm-cursor { fill: #D4A574; animation: blink 1s infinite; }
+    </style>
   </defs>
 
   <g clip-path="url(#bclip)">
@@ -35,6 +39,7 @@
         <path transform="translate(70.00,0)" d="M 37 9 C 29 4, 15 4, 9 10 C 5 15, 11 25, 22 30 C 33 35, 41 39, 37 48 C 33 56, 19 58, 12 51"/>
         <path transform="translate(134.00,0)" d="M 4 0 L 4 59 M 4 55 L 38 55"/>
         <path transform="translate(194.00,0)" d="M 3 0 L 26 32 L 49 0 M 26 32 L 26 59"/>
+        <rect class="wm-cursor" x="248" y="6" width="5" height="57" rx="2.5" fill="#D4A574" stroke="none"/>
     </g>
   </g>
 
