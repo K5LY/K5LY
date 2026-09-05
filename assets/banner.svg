@@ -1,79 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="K5LY - Brand Creative · AI Explorer · Digital Builder">
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="K5LY — Brand Creative × AI Explorer × Digital Builder">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B1424"/>
-      <stop offset="45%" stop-color="#0D1B2A"/>
-      <stop offset="100%" stop-color="#16304F"/>
+      <stop offset="0" stop-color="#0D1B2A"/>
+      <stop offset="0.5" stop-color="#14283C"/>
+      <stop offset="1" stop-color="#0D1B2A"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C09668"/>
-      <stop offset="50%" stop-color="#F0D9B0"/>
-      <stop offset="100%" stop-color="#D4A574"/>
+    <linearGradient id="goldline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D4A574" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D4A574"/>
+      <stop offset="1" stop-color="#D4A574" stop-opacity="0"/>
     </linearGradient>
-    <!-- Apple liquid glass: strong vertical specular fill -->
-    <linearGradient id="lgFill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.34"/>
-      <stop offset="28%" stop-color="#FFFFFF" stop-opacity="0.12"/>
-      <stop offset="75%" stop-color="#FFFFFF" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.10"/>
-    </linearGradient>
-    <!-- rim light: bright top-left, faint bottom-right -->
-    <linearGradient id="lgEdge" x1="0" y1="0" x2="0.8" y2="1">
-      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.85"/>
-      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.30"/>
-    </linearGradient>
-    <filter id="blurBig" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
-    <filter id="blurMid" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="14"/></filter>
-
-    <!-- clip for refraction inside philosophy strip -->
-    <clipPath id="stripClip"><rect x="340" y="262" width="520" height="48" rx="24"/></clipPath>
+    <pattern id="dotgrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#D4A574" fill-opacity="0.07"/>
+    </pattern>
   </defs>
 
-  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#dotgrid)"/>
 
-  <!-- deep ambient color field -->
-  <ellipse cx="210" cy="80"  rx="230" ry="130" fill="#2C4A73" opacity="0.55" filter="url(#blurBig)"/>
-  <ellipse cx="1000" cy="300" rx="260" ry="150" fill="#8A6A44" opacity="0.38" filter="url(#blurBig)"/>
-  <ellipse cx="620" cy="150" rx="330" ry="160" fill="#3A5A82" opacity="0.35" filter="url(#blurBig)"/>
+  <!-- inner frame -->
+  <rect x="30" y="30" width="1140" height="260" fill="none" stroke="#D4A574" stroke-opacity="0.32" stroke-width="1"/>
+  <rect x="38" y="38" width="1124" height="244" fill="none" stroke="#D4A574" stroke-opacity="0.12" stroke-width="1"/>
 
-  <!-- floating liquid glass orbs -->
-  <g>
-    <circle cx="150" cy="268" r="56" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.4"/>
-    <ellipse cx="130" cy="246" rx="22" ry="11" fill="#FFFFFF" opacity="0.55" transform="rotate(-18 130 246)"/>
-    <path d="M108,296 Q150,318 192,296" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.2" fill="none"/>
-  </g>
-  <g>
-    <circle cx="1054" cy="84" r="70" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.4"/>
-    <ellipse cx="1030" cy="58" rx="26" ry="13" fill="#FFFFFF" opacity="0.55" transform="rotate(-18 1030 58)"/>
-    <path d="M1002,118 Q1054,144 1106,118" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.2" fill="none"/>
-  </g>
-  <g opacity="0.9">
-    <circle cx="292" cy="88" r="30" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1"/>
-    <ellipse cx="284" cy="78" rx="10" ry="5" fill="#FFFFFF" opacity="0.5"/>
-  </g>
+  <!-- corner accents -->
+  <path d="M 30 66 L 30 30 L 66 30" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
+  <path d="M 1134 30 L 1170 30 L 1170 66" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
+  <path d="M 1170 254 L 1170 290 L 1134 290" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
+  <path d="M 66 290 L 30 290 L 30 254" fill="none" stroke="#D4A574" stroke-opacity="0.75" stroke-width="2"/>
 
-  <!-- name -->
-  <text x="600" y="160" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="118" fill="url(#gold)" letter-spacing="18" font-weight="400">K5LY</text>
+  <!-- wordmark -->
+  <text x="592" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="30" fill="#F5EFE6">K5LY</text>
+
+  <!-- gold divider with diamonds -->
+  <rect x="430" y="206" width="340" height="1.2" fill="url(#goldline)"/>
+  <rect x="588" y="202.4" width="7" height="7" transform="rotate(45 591.5 206)" fill="#D4A574"/>
 
   <!-- tagline -->
-  <text x="600" y="208" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#A9BCD4" letter-spacing="7" font-weight="300">BRAND CREATIVE · AI EXPLORER · DIGITAL BUILDER</text>
-
-  <!-- gold hairline -->
-  <line x1="470" y1="238" x2="730" y2="238" stroke="#D4A574" stroke-width="1" opacity="0.7"/>
-  <circle cx="600" cy="238" r="3.2" fill="#E8C990"/>
-
-  <!-- liquid glass philosophy strip with refraction -->
-  <g>
-    <rect x="340" y="262" width="520" height="48" rx="24" fill="url(#lgFill)" stroke="url(#lgEdge)" stroke-width="1.3"/>
-    <g clip-path="url(#stripClip)">
-      <ellipse cx="420" cy="310" rx="90" ry="26" fill="#D4A574" opacity="0.20" filter="url(#blurMid)"/>
-      <ellipse cx="800" cy="262" rx="90" ry="26" fill="#6E8BB0" opacity="0.28" filter="url(#blurMid)"/>
-    </g>
-    <rect x="340.7" y="262.7" width="518.6" height="47" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="0.8"/>
-    <text x="600" y="292" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#DCE7F4" font-style="italic">Building stories, systems &amp; experiments</text>
-  </g>
-
-  <line x1="140" y1="332" x2="1060" y2="332" stroke="#FFFFFF" stroke-width="0.5" opacity="0.12"/>
-  <rect x="140" y="331" width="90" height="2" fill="#D4A574" opacity="0.85"/>
+  <text x="600" y="248" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16.5" letter-spacing="6.5" fill="#D4A574">BRAND CREATIVE × AI EXPLORER × DIGITAL BUILDER</text>
 </svg>
