@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/roles.svg?v=6" alt="Brand Creative · AI Explorer · Digital Builder" width="100%" />
+<img src="assets/roles.svg?v=6" alt="brand creative · ai explorer · digital builder" width="100%" />
 
 </div>
 
