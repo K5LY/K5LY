@@ -5,7 +5,7 @@
   <g transform="translate(95.77,9.00) scale(0.44068)">
     <g clip-path="url(#swmclip)" fill="none" stroke="#B8935F" stroke-width="9.4" stroke-linecap="butt" stroke-linejoin="round">
         <path transform="translate(0.00,0)" d="M 46 0 L 4 30 L 47 56 M 4 0 L 4 59"/>
-        <path transform="translate(70.00,0)" d="M 35 8 C 29 3, 17 2.5, 9 8 C 3 14, 7 26, 23 30 C 39 34, 43 42, 39 49 C 35 56, 20 58, 12 51"/>
+        <path transform="translate(70.00,0)" d="M 37 9 C 29 4, 15 4, 9 10 C 5 15, 11 25, 22 30 C 33 35, 41 39, 37 48 C 33 56, 19 58, 12 51"/>
         <path transform="translate(134.00,0)" d="M 4 0 L 4 59 M 4 55 L 38 55"/>
         <path transform="translate(194.00,0)" d="M 3 0 L 26 32 L 49 0 M 26 32 L 26 59"/>
     </g>
