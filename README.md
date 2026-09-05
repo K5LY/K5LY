@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=2800&pause=1400&color=D4A574&background=FFFFFF00&center=true&vCenter=true&width=560&height=42&lines=Brand+Creative;AI+Explorer;Digital+Builder;Stories+%C2%B7+Systems+%C2%B7+Experiments" alt="Brand Creative · AI Explorer · Digital Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=21&duration=2800&pause=1400&color=D4A574&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=Brand+Creative;AI+Explorer;Digital+Builder;Stories+%C2%B7+Systems+%C2%B7+Experiments" alt="Brand Creative · AI Explorer · Digital Builder" />
 </a>
 
 <br>
