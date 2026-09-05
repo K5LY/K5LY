@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/typing.svg?v=6" alt="typing" width="100%" />
+<img src="assets/typing.svg?v=7" alt="typing" width="100%" />
 
 <br>
 
